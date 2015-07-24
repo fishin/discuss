@@ -5,6 +5,10 @@ discussion repo
 
 If you are interested in contributing to this project please let me know.  I can be reached at lloyd.benson@gmail.com.  This project is a large undertaking so if you have specific areas you may think you can help out with, I'd certainly appreciate it.
 
+You can also join me on gitter for discussion.
+
+[![Join the chat at https://gitter.im/fishin/ficion](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/fishin/ficion?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 UPDATE: This is getting to a point where I think its possible more than just me might find it useful.  I'd really like to find some early adopters who may need just a couple more features in order to find this useful.  If you would like to hear more or volunteer some time to see if this works with your project, please reach out.
 
 Goals of the project:
