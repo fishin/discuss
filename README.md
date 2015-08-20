@@ -44,7 +44,6 @@ Where you can help:
 - Code Reviews
 - Refactor suggestions / help (esp. in FE, but as things progress there are areas that can be split up a bit better for better readibility)
 - FE expertise (I'd like to do some React but FE is a big area of improvement I could use help with on suggestions or whatever you can spare)
-- Notification System
 - Emitter help (I need to get emitters implemented to improve things feedback of jobs)
 - Statistics Engine (fillet) - trending and other stats that are useful - d3 based?
 - Webhook engine (fishhook) - this handles primitive cron but webhooks would be fun and neat to do
